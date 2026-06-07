@@ -5,11 +5,13 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/bigbang_university/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
       },
+      
     },
     server: {
       // HMR is disabled in AI Studio via DISABLE_HMR env var.
