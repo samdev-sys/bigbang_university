@@ -1,0 +1,6 @@
+{
+  "name": "Big Bang University - Escuela de Negocios Digital",
+  "description": "Plataforma interactiva y solicitud de admisión para Big Bang University, la primera escuela de negocios digital centrada en la libertad y la práctica real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
