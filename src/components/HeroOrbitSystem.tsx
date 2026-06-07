@@ -19,7 +19,7 @@ const PLANETS: PlanetInfo[] = [
   {
     id: 'inteligencia-artificial',
     name: 'Inteligencia Artificial',
-    imageUrl:"public/assets/IA.png",
+    imageUrl:"/assets/IA.png",
     orbitRadius: 185,
     orbitDuration: 40,
     glowColor: 'rgba(59, 130, 246, 0.65)', // Blue
@@ -37,7 +37,7 @@ const PLANETS: PlanetInfo[] = [
   {
     id: 'trading-inversion',
     name: 'Trading & Inversión',
-    imageUrl: "public/assets/tradingInv.png",
+    imageUrl: "/assets/tradingInv.png",
     orbitRadius: 310,
     orbitDuration: 28,
     glowColor: 'rgba(34, 197, 94, 0.65)', // Green
@@ -46,7 +46,7 @@ const PLANETS: PlanetInfo[] = [
   {
     id: 'ecommerce-marca',
     name: 'Ecommerce & Marca',
-    imageUrl: "public/assets/Ecommerce.png",
+    imageUrl: "/assets/Ecommerce.png",
     orbitRadius: 135,
     orbitDuration: 50,
     glowColor: 'rgba(168, 85, 247, 0.65)', // Purple
@@ -55,7 +55,7 @@ const PLANETS: PlanetInfo[] = [
   {
     id: 'ciberseguridad',
     name: 'Ciberseguridad',
-    imageUrl: "public/assets/ciberseg.png",
+    imageUrl: "/assets/ciberseg.png",
     orbitRadius: 220,
     orbitDuration: 34,
     glowColor: 'rgba(6, 182, 212, 0.65)', // Cyan
