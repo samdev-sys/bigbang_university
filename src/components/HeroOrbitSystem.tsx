@@ -28,7 +28,7 @@ const PLANETS: PlanetInfo[] = [
   {
     id: 'amazon-fba',
     name: 'Amazon FBA',
-    imageUrl:"public/assets/amazon.png",
+    imageUrl:"assets/amazon.png",
     orbitRadius: 260,
     orbitDuration: 62,
     glowColor: 'rgba(249, 115, 22, 0.65)', // Orange
@@ -37,7 +37,7 @@ const PLANETS: PlanetInfo[] = [
   {
     id: 'trading-inversion',
     name: 'Trading & Inversión',
-    imageUrl: "public/assets/tradinginv.png",
+    imageUrl: "public/assets/tradingInv.png",
     orbitRadius: 310,
     orbitDuration: 28,
     glowColor: 'rgba(34, 197, 94, 0.65)', // Green
