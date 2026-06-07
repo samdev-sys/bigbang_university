@@ -8,7 +8,7 @@ export const PROGRAMS_DATA: Program[] = [
     detailedDescription: 'Aprende el modelo de negocio más rentable del comercio electrónico. Te guiamos de la mano desde la búsqueda de productos ganadores y la negociación con proveedores internacionales hasta el lanzamiento automatizado de tu propia marca en los almacenes de Amazon FBA en Europa y EE.UU.',
     duration: '12 Meses',
     level: 'Avanzado',
-    imageUrl: "../dist/assets/amFBA.png",
+    imageUrl: "public/assets/amFBA.png",
     syllabus: [
       'Módulo 1: Fundamentos y mentalidad de un e-commerce millonario',
       'Módulo 2: Herramientas de análisis y búsqueda científica de productos',
@@ -30,7 +30,7 @@ export const PROGRAMS_DATA: Program[] = [
     detailedDescription: 'Conviértete en el perfil más demandado del siglo XXI. Aprende a integrar agentes de IA autónomos, LLMs de última generación y flujos automatizados complejos con herramientas no-code y Python para ahorrar miles de horas de trabajo y crear agencias de automatización altamente lucrativas.',
     duration: '12 Meses',
     level: 'Avanzado',
-    imageUrl: "../dist/assets/IAload.png",
+    imageUrl: "public/assets/IAload.png",
     syllabus: [
       'Módulo 1: Prompt Engineering profesional y arquitectura de LLMs',
       'Módulo 2: Automatización avanzada con Make, Zapier y n8n',
@@ -52,7 +52,7 @@ export const PROGRAMS_DATA: Program[] = [
     detailedDescription: 'Domina el arte de rentabilizar tu propio dinero fomentando la frialdad y el análisis matemático. Desarrolla un profundo conocimiento en análisis técnico, gestión algorítmica del riesgo, psicología bursátil, y obtén financiación compartida mediante cuentas de fondeo profesionales.',
     duration: '12 Meses',
     level: 'Avanzado',
-    imageUrl: "../dist/assets/tradingE.png",
+    imageUrl: "public/assets/tradingE.png",
     syllabus: [
       'Módulo 1: Macroeconomía bursátil y estructura de mercados financieros',
       'Módulo 2: Análisis Técnico Cuantitativo e identificadores de liquidez institucional',
@@ -74,7 +74,7 @@ export const PROGRAMS_DATA: Program[] = [
     detailedDescription: 'Deja de hacer dropshipping básico y construye un activo genuino y vendible. Domina los secretos de la creación de marcas DTC (Direct to Consumer). Desde la ingeniería web en Shopify hasta la adquisición hiper-agresiva mediante TikTok Ads y el diseño de packaging premium que fideliza clientes.',
     duration: '12 Meses',
     level: 'Avanzado',
-    imageUrl: "../dist/assets/commerceE.png",
+    imageUrl: "public/assets/commerceE.png",
     syllabus: [
       'Módulo 1: Estudio de nichos emocionales y validación de productos de alto margen',
       'Módulo 2: Diseño interactivo de la experiencia de cliente (UX) en Shopify',
@@ -96,7 +96,7 @@ export const PROGRAMS_DATA: Program[] = [
     detailedDescription: 'Protege la infraestructura digital global y conviértete en un activo defensivo impenetrable. Este programa integral te entrena desde las bases de redes, criptografía y sistemas hasta el Pentesting ofensivo avanzado, asegurando que puedas analizar vulnerabilidades críticas en grandes corporaciones de forma legal.',
     duration: '12 Meses',
     level: 'Avanzado',
-    imageUrl: "../dist/assets/ciber.png",
+    imageUrl: "public/assets/ciber.png",
     syllabus: [
       'Módulo 1: Fundamentos de Redes seguras, arquitectura Linux y Windows',
       'Módulo 2: Criptografía avanzada y análisis de protocolos sensibles',
